@@ -1,2 +1,3 @@
 # csmcom
-Placeholder repo for the csmcom project
+
+Placeholder package. The `csmcom` name is reserved for a future project.
